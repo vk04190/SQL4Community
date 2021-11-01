@@ -1,3 +1,9 @@
+BEGIN
+ OR_DB_SCHEMA.any_random_prc( 'Any_Condition', '20250720', '20250731');
+END;
+
+
+
 -- Procedure: A Procedure is a Named PL/SQL Block performing one or more actions associated to business logic.
 -- It is also called Stored procedure
 -- It accept the parameters
